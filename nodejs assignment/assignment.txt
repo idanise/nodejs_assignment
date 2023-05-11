@@ -1,0 +1,5 @@
+This is the assignment. 
+
+Create a github repository that contains a list of all the core modules in Node Js as individual files. 
+
+For example, the http module. Create a file called http.js and in the file, write the name of the module and give a brief description. Then give an example of how the http module can be used.
